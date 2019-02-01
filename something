@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+
+        <meta charset="utf-8">
+        <title>Dhruv Syam</title>
+    	<style>
+            body {background-color: rgb(97, 250, 255)};
+
+    	</style>
+
+
+    </head>
+    <body>
+    <h1>Dhruv Syam</h1>
+
+    <h2>Basic info</h2>
+
+    <p>Dhruv is an amazing person who is the <strong>best guitarist in the world</strong></p>
+
+    <img src="https://static.wixstatic.com/media/185a4d_d73f3bfef59845e7adaec5a7b68c704c~mv2_d_1200_1600_s_2.jpg/v1/fill/w_519,h_660,al_c,q_80,usm_0.66_1.00_0.01/185a4d_d73f3bfef59845e7adaec5a7b68c704c~mv2_d_1200_1600_s_2.webp">
+
+
+
+
+
+
+
+</body>
+</html>
